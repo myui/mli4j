@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package treasure_ml;
+package antml;
 
 import matrix4j.matrix.Matrix;
 import matrix4j.vector.Vector;

@@ -19,18 +19,18 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>io.github.myui</groupId>
-	<artifactId>treasure-ml</artifactId>
+	<artifactId>antml</artifactId>
 	<version>0.9.0</version>
 
 	<packaging>jar</packaging>
 
-	<name>treasure-ml</name>
+	<name>antml</name>
 	<description>Treasure Machine Learning Library</description>
-	<url>https://github.com/myui/treasure-ml</url>
+	<url>https://github.com/myui/antml</url>
 	<inceptionYear>2019</inceptionYear>
 	<organization>
 		<name>Makoto Yui</name>
-		<url>https://github.com/myui/treasure-ml/</url>
+		<url>https://github.com/myui/antml/</url>
 	</organization>
 
 	<licenses>
@@ -42,9 +42,9 @@
 	</licenses>
 
 	<scm>
-		<url>https://github.com/myui/treasure-ml</url>
-		<connection>scm:git:git@github.com:myui/treasure-ml.git</connection>
-		<developerConnection>scm:git:git@github.com:myui/treasure-ml.git</developerConnection>
+		<url>https://github.com/myui/antml</url>
+		<connection>scm:git:git@github.com:myui/antml.git</connection>
+		<developerConnection>scm:git:git@github.com:myui/antml.git</developerConnection>
 	</scm>
 
 	<developers>
@@ -77,12 +77,12 @@
 	</distributionManagement>
 
 	<issueManagement>
-		<url>https://github.com/myui/treasure-ml/issues</url>
+		<url>https://github.com/myui/antml/issues</url>
 		<system>Github Issues</system>
 	</issueManagement>
 	<ciManagement>
 		<system>Travis CI</system>
-		<url>https://travis-ci.org/myui/treasure-ml</url>
+		<url>https://travis-ci.org/myui/antml</url>
 	</ciManagement>
 
 	<profiles>
